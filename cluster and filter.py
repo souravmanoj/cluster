@@ -1,3 +1,8 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May 11 14:52:40 2023
+@author: soura
+"""
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
